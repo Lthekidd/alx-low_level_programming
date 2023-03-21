@@ -1,10 +1,8 @@
 #include "main.h"
 
 /**
-   * main - check the code.
-    *
-     * Return: Always 0.
-      */
+   * print_alphabet_x10 - print alphabnet 10 times.
+   */
 void print_alphabet_x10(void)
 {
 	char ch;
@@ -17,7 +15,7 @@ void print_alphabet_x10(void)
 	while (n <= 10)
 	{
 		while (ch <= 'z')
-			_putchar(ch)
+			_putchar(ch);
 			ch++;
 		a++;
 	}
