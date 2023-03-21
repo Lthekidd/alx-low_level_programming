@@ -1,7 +1,7 @@
-#include <main.h>
+#include "main.h"
 
 /**
-   * main - prints all possible different combinations of three digits
+   * main - prints out _putchar without printf or puts
     * Return: Always 0 (Success)
      */
 int main(void)
