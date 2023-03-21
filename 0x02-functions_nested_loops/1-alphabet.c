@@ -3,7 +3,7 @@
 /**
  * main - print a to z
  */
-
+void print_alphabet(void)
 int main(void)
 {
 	char ch;
