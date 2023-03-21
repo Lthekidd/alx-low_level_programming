@@ -1,14 +1,13 @@
 #include "main.h"
 
 /**
- * main - check the code for Holberton School students.
- *
+ * main - print a to z
  */
 
 int main(void)
 {
 	char ch;
-	ch ='a';
+	ch = 'a';
 	while (ch <= 'z')
 	{
 		_putchar(ch);
